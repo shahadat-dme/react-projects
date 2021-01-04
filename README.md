@@ -1,11 +1,13 @@
 # React
 
-npm install -g create-react-app
+npm install -g create-react-app # For First Time Install PC.
 
-npx create-react-app react-tut
+npx create-react-app react-tut # Install for New Project
 
-cd react-tut
+cd react-tut 
+
+code . #for vscode
 
 npm start
 
-code . #for vscode
+
