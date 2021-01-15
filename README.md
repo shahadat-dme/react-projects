@@ -10,4 +10,4 @@ code .   #For vscode
 
 npm start
 
-
+npm install
