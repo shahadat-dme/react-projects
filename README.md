@@ -11,3 +11,7 @@ code .   #For vscode
 npm start
 
 npm install
+
+node -v
+
+npm -v
