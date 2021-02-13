@@ -10,7 +10,7 @@ code .   #For vscode
 
 npm start
 
-npm install
+npm install  // For Clone code necessary file.
 
 node -v
 
