@@ -1,11 +1,9 @@
 
-import './App.css';
-
 function App() {
   return (
-    <div>
-      <h1>Shahadat</h1>
-    </div>
+    <>
+      <h1 className="text-4xl text-slate-700 text-center">Shahadat</h1>
+    </>
   );
 }
 
